@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FileToHexString": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Jun\\Pictures\\Screenshots\\스크린샷_20230205_022208.png"
+    }
+  }
+}

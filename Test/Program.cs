@@ -1,6 +1,4 @@
-﻿using System.Security.Cryptography;
-
-using Utils;
+﻿using Utils;
 
 
 class Program
